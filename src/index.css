@@ -1,0 +1,12 @@
+@font-face {
+  font-family: Kyiv;
+  src: url("./fonts/kyiv-type-titling/KyivTypeTitling-Regular.otf");
+}
+
+:root {
+  font-family: Kyiv;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+}
