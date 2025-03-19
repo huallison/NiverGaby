@@ -75,9 +75,9 @@ function App() {
           <section className='box-blue'>
             <div className='box-inteligente'>
               <div className='box-title'>
-                <img src={Inteligente1}/>
+                <img src={Inteligente1}  className='img-inte1'/>
                 <h2>Inteligente</h2>
-                <img src={Inteligente2}/>
+                <img src={Inteligente2} className='img-inte2'/>
               </div>
 
               <div className='box-image'>
