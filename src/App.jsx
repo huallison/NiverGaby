@@ -2,6 +2,8 @@ import './App.css'
 import Desenhista1 from "./assets/imagem-desenhista1.png"
 import Desenhista2 from "./assets/imagem-desenhista2.png"
 import Desenho1 from "./assets/desenho1.png"
+import Desenho2 from "./assets/desenho2.jpg"
+import Desenho3 from "./assets/desenho3.jpg"
 import Artista1 from "./assets/music.png"
 // import Artista2 from "./assets/violao.png"
 import Inteligente1 from "./assets/inteligente1.png"
@@ -32,7 +34,9 @@ function App() {
               </div>
 
               <div className='box-image'>
+                <img src={Desenho3} alt="Desenho" />
                 <img src={Desenho1} alt="Desenho" />
+                <img src={Desenho2} alt="Desenho" />
               </div>
             </div>
 

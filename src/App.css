@@ -57,6 +57,11 @@ h1.title{
   margin-top: -20px;
 }
 
+.box-desenhista .box-image img{
+  width: 100vw;
+  padding: 40px 15px;
+}
+
 .box-artista .box-content{
   width: 100%;
   background-image: url("./assets/violao.png");
@@ -159,7 +164,7 @@ h1.title{
 }
 
 .box-final .box-title h2{
-  font-size: 25pt;
+  font-size: 23pt;
 }
 
 .box-final .box-title img.img1{
