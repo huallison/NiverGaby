@@ -139,7 +139,7 @@ function App() {
             <div className='box-final'>
               <div className='box-title'>
                   <img src={Balao} alt="Desenho de Borboleta" className='img1'/>
-                  <h2>Feliz Aniversário !!!</h2>
+                  <h2>Feliz Aniversário</h2>
                   <img src={Balao} alt="Assinatura de Desenho" className='img2'/>
               </div>
 
