@@ -62,17 +62,16 @@ h1.title{
   padding: 40px 15px;
 }
 
+.box-artista .box-title img{
+  margin-top: -60px;
+}
+
 .box-artista .box-content{
   width: 100%;
   background-image: url("./assets/violao.png");
   background-repeat: no-repeat;
   background-position-x: left;
   background-position: 0;
-}
-
-.box-artista .box-content img{
-  width: 380px;
-  height: 380px;
 }
 
 .box-artista .box-content p{
@@ -135,6 +134,7 @@ h1.title{
 
 .box-religiao .box-title img{
   margin:-81px -79px 0px 0px;
+  z-index: 2;
 }
 
 .division2{
